@@ -2,4 +2,4 @@ Hello!
 
 This is the source code for Vedika's submission for **COMP3111**'s Lab Exercise 01.
 
-![readme.png](readme.png)
+![readme.png](../../../../readme.png)
