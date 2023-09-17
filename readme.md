@@ -1,3 +1,5 @@
 Hello!
 
-This:<img src="/Users/vedikasaini/Desktop/readme.png" title="readme image"/> is the source code for Vedika's submission for **COMP3111**'s Lab Exercise 01.
+This is the source code for Vedika's submission for **COMP3111**'s Lab Exercise 01.
+
+![readme.png](readme.png)
